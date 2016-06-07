@@ -5,7 +5,7 @@ set background=dark
 colorscheme solarized
 filetype plugin indent on
 set nu
-
+set list
 inoremap jk <ESC>
 
 set expandtab
