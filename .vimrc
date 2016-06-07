@@ -15,3 +15,5 @@ set autoindent
 set smartindent
 
 autocmd FileType html set omnifunc=htmlcomplete#CompleteTags 
+
+inoremap # X#
