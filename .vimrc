@@ -40,3 +40,5 @@ set foldmethod=indent
 set foldlevel=99
 noremap <space> za
 
+"turn of swap files
+set noswapfile
