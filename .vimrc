@@ -20,6 +20,7 @@ set splitbelow
 set splitright
 
 autocmd FileType html set omnifunc=htmlcomplete#CompleteTags 
+autocmd BufRead,BufNewFile *.html set filetype=htmldjango
 
 inoremap # X#
 
@@ -42,3 +43,13 @@ noremap <space> za
 
 "turn of swap files
 set noswapfile
+
+"turn on highlighting
+set hlsearch
+
+"remap the most annoying thing about vim
+" to something more useful!
+:command WQ wq
+:command Wq wq
+:command W w
+:command Q q
