@@ -55,3 +55,5 @@ set hlsearch
 :command Q q
 
 set textwidth=80
+set formatoptions+=t
+
