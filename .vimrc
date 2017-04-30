@@ -57,3 +57,8 @@ set hlsearch
 set textwidth=80
 set formatoptions+=t
 
+"fix vim crontab issue
+if $VIM_CRONTAB == "true"
+    set nobackup
+    set nowritebackup
+endif

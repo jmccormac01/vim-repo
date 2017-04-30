@@ -1,11 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/Users/James/Documents/PythonScripts/flask/monitor/app/templates'
-let g:netrw_dirhist_2='/Users/James/Documents/PythonScripts/flask/monitor/app'
-let g:netrw_dirhist_3='/Users/James/Documents/PythonScripts/NITES/Autoplan/plans/clusters20161004'
-let g:netrw_dirhist_4='/Users/James/Documents/PythonScripts/NITES/Reduction/photometry'
-let g:netrw_dirhist_5='/Users/James/Documents/PythonScripts/NITES/Reduction'
-let g:netrw_dirhist_6='/Users/James/Documents/PythonScripts/NITES'
-let g:netrw_dirhist_7='/Users/James/Documents/PythonScripts'
-let g:netrw_dirhist_8='/Users/James/Documents/PythonScripts/DS9'
-let g:netrw_dirhist_9='/Users/James/Documents/PythonScripts/flask/monitor/app/templates'
+let g:netrw_dirhist_cnt =0
