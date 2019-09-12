@@ -54,8 +54,9 @@ set hlsearch
 :command W w
 :command Q q
 
-set textwidth=80
-set formatoptions+=t
+"Enable line wrapping
+"set textwidth=80
+"set formatoptions+=t
 
 "fix vim crontab issue
 if $VIM_CRONTAB == "true"
